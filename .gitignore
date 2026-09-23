@@ -5,6 +5,7 @@ local_tests/*
 
 # AI related files
 .claude/*
+!.claude/skills/
 CLAUDE.md
 tasks/*
 /tasks
